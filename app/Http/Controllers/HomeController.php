@@ -53,6 +53,12 @@ class HomeController extends Controller
     {   
         return view('pages.layoutedit')
         ->with('layout',"layouts.agencyl");
+    }    
+
+    public function getMobile()
+    {   
+        return view('pages.layouteditmobile')
+        ->with('layout',"layouts.mobile");
     }
 
 

@@ -19,4 +19,5 @@ Route::get('/LandingPage/',  ['uses' => 'HomeController@getLandingPage']);
 Route::get('/FullWidthPics/',  ['uses' => 'HomeController@getFullWidthPics']);
 Route::get('/freelancer/',  ['uses' => 'HomeController@getFreelancer']);
 Route::get('/agencyl/',  ['uses' => 'HomeController@getAgency']);
+Route::get('/mobile/',  ['uses' => 'HomeController@getMobile']);
 
