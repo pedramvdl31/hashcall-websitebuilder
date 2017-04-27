@@ -45,7 +45,7 @@ wpwb = {
 			$('#atagmodal').modal('hide');
 			GVar.p_nw_text = $('#atagtext').val();
 			GVar.a_nw_href = $('#ataghref').val();
-			GVar.a_object.text(GVar.a_nw_text);
+			GVar.a_object.text(GVar.p_nw_text);
 			GVar.a_object.attr('href',GVar.a_nw_href);
 			InjectCog();
 		});
