@@ -20,4 +20,5 @@ Route::get('/FullWidthPics/',  ['uses' => 'HomeController@getFullWidthPics']);
 Route::get('/freelancer/',  ['uses' => 'HomeController@getFreelancer']);
 Route::get('/agencyl/',  ['uses' => 'HomeController@getAgency']);
 Route::get('/mobile/',  ['uses' => 'HomeController@getMobile']);
+Route::post('/server/uploads',  ['uses' => 'HomeController@postUploads']);
 

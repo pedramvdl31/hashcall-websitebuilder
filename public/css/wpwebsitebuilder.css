@@ -1,13 +1,19 @@
-._1ed{
+._1edc{
 	font-size: 20px !important;
 	transition: all 0.2s;
 	color: #5cb85c;
 	text-decoration: none !important; 
 	cursor: pointer;
 }
-._1ed:hover{
+._1edc:hover{
 	color:  #0275d8;
 }
+.imgcog{
+	position: absolute;
+    left: 30px;
+    top: 15px;
+}
+
 ._eipt{
 	color: black !important;
 	transition: all 0.2s;
