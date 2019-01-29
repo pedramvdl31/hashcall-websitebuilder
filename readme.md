@@ -1,7 +1,7 @@
-#HashCall Website Builder
+# HashCall Website Builder
 <p>Demo website builder with multiple themes to select from.</p>
 <p>
-    <span class="span-title">Stack: </span>
+    <strong>Stack: </strong>
     <span>PHP Laravel 5, MySQL, HTML, CSS(Bootstrap 3), JavaScript & JQuery</span>
 </p>
 <h1>What Did I learned</h1>  
